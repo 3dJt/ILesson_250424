@@ -1,2 +1,2 @@
 # Hello, world!
-# New text, new commit
+# New text, new commit.
